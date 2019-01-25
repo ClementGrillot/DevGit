@@ -1,0 +1,38 @@
+Bonjour la Promo 17,
+
+Tout d'abord je vous souhaite une très bonne année 2019, pleine de réussite et de bonne santé.
+
+Je vous envoie cet email pour vous signaler qu'il est important d'avoir un environnement de travail qui marche pour le premier jour de cours de POO C++.
+J'insiste là-dessus parce que cela fait partie des recommendations qui m'ont été remontées par les étudiants les années précédentes et c'est malheureusement ce sur quoi je peux le moins agir.
+
+Les caractéristiques de l'environnement de développement sur lequel sera basé mes cours, TD et DS sont les suivantes:
+
+* Soit Mac (j'ai la version MacOS Sierra ... mais tout autre version devrait aussi marcher)
+
+    Assurez-vous d'avoir l'application Xcode installée (ça vous garantit la présence d'un compilateur C/C++)  
+
+* Soit Linux (Ubuntu ou équivalent plus léger: Lubuntu, Xubuntu, ...): 
+utilisez toujours la dernière version LTS 
+
+    Depuis Windows 10, vous pouvez installer un sous-système Ubuntu comme décrit ici 
+    Depuis un Windows inférieur, vous pouvez utiliser une machine virtuelle 
+    Ou alors si vous avez déjà un dual boot, c'est parfait!  
+
+
+Si vous installez Linux: 
+
+    prévoyez un peu de place lors de l'installation pour le système de fichier "/" (Filesystem root). Selon la capacité de votre disque dur, 15 ou 20 Go ou plus ...
+    prévoyez l'espace swap linux, qui doit être deux fois supérieur à la quantité de mémoire vive (RAM) installée sur votre ordinateur ou VirtualBox.
+
+
+Dans tous les cas:
+
+    Relisez aussi vos cours et TD de Programmation C. 
+    Lancez au moins une compilation, suivi d'une exécution pour être sûr d'avoir un environnement C qui marche.
+
+
+Si vous avez des questions, n’hésitez pas à me les poser par email. J'y répondrai dès que possible. 
+
+Bonne semaine et à très vite !
+
+Note: Faites passer le message pour ceux dont l'adresse email usuelle n'est pas celle de cette liste. Merci.
